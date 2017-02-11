@@ -4,7 +4,24 @@ body{
   line-height: 1.4px;
   font: 16px Helvetica; /*tipo de fuente*/
 }
-
+h1{
+font-family: 'Pangolin', cursive;
+}
+h1{
+text-shadow:48px -35px 5px #000000;
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+}
+h2{
+  text-shadow:45px -24px 3px #0b0380;
+}
+h3{
+  font-family: 'Caveat Brush', cursive;
+}
+h3{
+  text-shadow:45px 31px 3px #c2efff;
+}
 hr{
 display: block;
 height: 1px;
